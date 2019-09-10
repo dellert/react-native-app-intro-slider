@@ -1,6 +1,6 @@
 <h1 align="center">react-native-app-intro-slider</h1>
 
-<p align="center">Easy-to-use yet very configurable app introduction slider/swiper based on FlatList</p>
+<p align="center">Easy-to-use yet very configurable app introduction slider/swiper based on FlatList. <b>Added currentIndex prop!</b></p>
 
 ```sh
 npm i react-native-app-intro-slider --save
